@@ -8,7 +8,7 @@ public class SbJpa13OneToOneAssociationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SbJpa13OneToOneAssociationApplication.class, args);
-		System.out.println("SbJpa13OneToOneAssociationApplication.main()");
+		System.out.println("SbJpa13OneToOneAssociationApplication.aasfedcmain()");
 	}
 
 }
